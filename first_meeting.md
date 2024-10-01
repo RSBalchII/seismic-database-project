@@ -1,5 +1,3 @@
-Here's the summary formatted in Markdown:
-
 # Project Overview
 
 - **Main objective**: Monitor micro-seismic or seismic activity in the area, specifically related to oil rig operations.
@@ -9,12 +7,7 @@ Here's the summary formatted in Markdown:
 
 ## Data Collection and Processing
 
-- **Sensors**: Seismometers collecting data on event location and depth.
-- **File formats**:
-  - Original: SEG-D (Society of Exploration Geophysicists) format
-  - Converted to: SEG-2 format
-  - Final format: MiniSEED
-- **Data processing**: Using ObsPy for analysis.
+- **Sensors**: SeismomHere's the summary formatted in Markdown:
 
 ## Focus Areas
 
@@ -40,8 +33,6 @@ Here's the summary formatted in Markdown:
 - **Database access**: You have access to the server machine from previous work.
 - **API**: Currently doesn't exist; considering using software like BigQuery to copy the database.
 
-This Markdown-formatted summary provides a structured overview of the project, highlighting its objectives, data handling processes, focus areas, and additional context. It offers a clear and organized view of the information gathered from your recent conversation.
-
 ## Citations
 
 - U.S. Environmental Protection Agency. (n.d.). Underground Injection Control Program. Retrieved from https://www.epa.gov/uic
@@ -53,7 +44,7 @@ This Markdown-formatted summary provides a structured overview of the project, h
 - Monitoring: 2007-2014 (pp. 151-168). Springer International Publishing. doi: 10.1007/978-3-319-07713-0_7
 
 - Society of Exploration Geophysicists. (2010). SEG Y rev 1 Data Exchange Format. Retrieved from https://seg.org/Publications/SEG-Y-revision-1
-  Krischer, L., Megies, T., Barsch, R., Beyreuther, M., Lecocq, T., Caudron, C., & Wassermann, J. (2015). ObsPy: A bridge for seismology into the scientific Python ecosystem. Computers & Geosciences, 81, 190-199. doi: 10.1016/j.cageo.2015.07.017
+  Krischer, L., Megies, T., Barsch, R., Beyreuther,Here's the summary formatted in Markdown:190-199. doi: 10.1016/j.cageo.2015.07.017
 
 - U.S. Department of Energy. (n.d.). Carbon Utilization and Storage Atlas. Retrieved from https://netl.doe.gov/projects/carbon-storage-atlas
 - U.S. Environmental Protection Agency. (n.d.). Greenhouse Gas Equivalencies Calculator Calculations and References. Retrieved from https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator-calculations-and-references
